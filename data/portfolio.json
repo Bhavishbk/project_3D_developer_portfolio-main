@@ -1,0 +1,77 @@
+{
+  "name": "Bhavish B K",
+  "role": "Full-Stack / MERN Stack Developer",
+  "email": "bhavishbkkudlu@gmail.com",
+  "phone": "919074145334",
+  "linkedin": "https://linkedin.com/in/bhavish-b-k",
+  "github": "https://github.com/Bhavishbk",
+  "careerObjective": "Motivated and detail-oriented MERN Stack Developer seeking an entry-level role to build scalable, user-focused web applications using modern technologies.",
+  "skills": {
+    "languages": ["C", "JavaScript", "HTML", "CSS", "SQL"],
+    "frameworks": ["React.js", "Node.js", "Express.js", "MERN Stack"],
+    "databases": ["MongoDB", "MySQL"],
+    "tools": ["Git", "GitHub", "VS Code", "Postman", "Render", "Vercel", "Framer"],
+    "softSkills": ["Problem Solving", "Communication", "Critical Thinking"]
+  },
+  "experience": [
+    {
+      "title": "Web Developer Intern",
+      "company": "Daylink Tech Labs Pvt. Ltd.",
+      "date": "Dec 2025 - Mar 2026",
+      "responsibilities": [
+        "Next.js frontend development",
+        "REST API development using Node.js & Express",
+        "MongoDB schema design",
+        "Authentication & authorization",
+        "Git/GitHub collaboration"
+      ]
+    },
+    {
+      "title": "MERN Stack Intern",
+      "company": "Livewire, Kasaragod",
+      "date": "May 2025 - Jun 2025",
+      "responsibilities": [
+        "Built a travel booking website",
+        "User authentication & role-based access",
+        "Admin panel & booking system",
+        "Deployed on Render"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smart Helmet — IoT Safety System",
+      "year": 2026,
+      "description": "IoT-based rider safety helmet with alcohol and accident detection using ESP32/Arduino and sensors."
+    },
+    {
+      "name": "Travel Booking Website",
+      "year": 2025,
+      "description": "MERN stack application with user authentication, bookings and admin panel. Deployed on Render."
+    },
+    {
+      "name": "Candle Booking Website",
+      "year": 2025,
+      "description": "MERN stack project with JWT authentication, booking system and admin access. Uses MongoDB Atlas and Render."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech CSE",
+      "institution": "Srinivas University College of Engineering & Technology",
+      "years": "2022–2026",
+      "cgpa": "8.31"
+    },
+    {
+      "degree": "Higher Secondary",
+      "institution": "HHSIB Swamiji’s Higher Secondary School",
+      "percentage": "88.75%"
+    }
+  ],
+  "languages": ["English", "Hindi", "Kannada", "Malayalam", "Tulu"],
+  "certificates": [
+    "Tata GenAI-Powered Data Analytics — Forage",
+    "MongoDB for SQL Experts — MongoDB University",
+    "AWS Academy Cloud Foundations"
+  ]
+}
