@@ -22,6 +22,19 @@ const About = () => {
         technologies.
       </motion.p>
 
+      <motion.div
+        variants={fadeIn("", "", 0.1, 1)}
+        className='mt-4'
+      >
+        <a
+          href='/resume.pdf'
+          download
+          className='bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary'
+        >
+          Download Resume
+        </a>
+      </motion.div>
+
       <div className="mt-6 max-w-3xl text-white-100">
         <h3 className="text-white font-semibold mt-4">Key Skills</h3>
         <ul className="list-disc ml-5 mt-2 text-secondary">

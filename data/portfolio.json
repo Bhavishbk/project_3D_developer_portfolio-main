@@ -2,16 +2,42 @@
   "name": "Bhavish B K",
   "role": "Full-Stack / MERN Stack Developer",
   "email": "bhavishbkkudlu@gmail.com",
-  "phone": "919074145334",
+  "phone": "+919074145334",
   "linkedin": "https://linkedin.com/in/bhavish-b-k",
   "github": "https://github.com/Bhavishbk",
   "careerObjective": "Motivated and detail-oriented MERN Stack Developer seeking an entry-level role to build scalable, user-focused web applications using modern technologies.",
   "skills": {
-    "languages": ["C", "JavaScript", "HTML", "CSS", "SQL"],
-    "frameworks": ["React.js", "Node.js", "Express.js", "MERN Stack"],
-    "databases": ["MongoDB", "MySQL"],
-    "tools": ["Git", "GitHub", "VS Code", "Postman", "Render", "Vercel", "Framer"],
-    "softSkills": ["Problem Solving", "Communication", "Critical Thinking"]
+    "languages": [
+      "C",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SQL"
+    ],
+    "frameworks": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MERN Stack"
+    ],
+    "databases": [
+      "MongoDB",
+      "MySQL"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Postman",
+      "Render",
+      "Vercel",
+      "Framer"
+    ],
+    "softSkills": [
+      "Problem Solving",
+      "Communication",
+      "Critical Thinking"
+    ]
   },
   "experience": [
     {
@@ -68,7 +94,13 @@
       "percentage": "88.75%"
     }
   ],
-  "languages": ["English", "Hindi", "Kannada", "Malayalam", "Tulu"],
+  "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Tulu"
+  ],
   "certificates": [
     "Tata GenAI-Powered Data Analytics — Forage",
     "MongoDB for SQL Experts — MongoDB University",

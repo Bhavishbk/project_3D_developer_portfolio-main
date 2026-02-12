@@ -7,11 +7,11 @@ import Experience from "./Experience";
 import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
+import Game from "./Game";
 import Education from "./Education";
 import Footer from "./Footer";
 import Chatbot from "./Chatbot";
 import CanvasLoader from "./Loader";
-
 
 export {
   Hero,
@@ -22,12 +22,13 @@ export {
   Works,
   Feedbacks,
   Contact,
+  Game,
   Education,
   Footer,
   Chatbot,
   CanvasLoader,
-  EarthCanvas, 
-  BallCanvas, 
-  ComputersCanvas, 
+  EarthCanvas,
+  BallCanvas,
+  ComputersCanvas,
   StarsCanvas
 };
