@@ -20,7 +20,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:5173 in your browser.
+Open https://bhavishinfo.onrender.com/ in your browser.
 
 ## Sections
 
@@ -69,6 +69,3 @@ Note: Keep your OpenAI key secret. This proxy is for local development; for prod
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
